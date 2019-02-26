@@ -7,5 +7,14 @@
 
 **Thoughts:** I do not understand what is going on but am hoping I will get something out of it. So far I have the keywords and basic terms in my memory. The application will probably throw me for a loop but I am ready. I am only on section 3 of the course that I am taking so I have a long while to go. I am also trying to learn how to push my mini projects from intellij to github. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+
+### Day 2: February 25, 2019 
+##### 
+
+**Today's Progress**: I have made good progress on my java course. I have intelliJ and JDK installed. I have learned about variables, dataypes, operators, expressions, statements, codeblocks, and methods.
+
+**Thoughts:** As I progress on, it is becoming easier to remember concepts. I have been commenting out notes on each section that I learn although I am trying to do better as far as note taking. I am not sure if I want web notes, github notes, or written notes.
+
+**Link to work:** 
 
