@@ -18,3 +18,11 @@
 
 **Link to work:** 
 
+### Day 3: February 65, 2019 
+##### 
+
+**Today's Progress**: Took a break from java and learned an intro to React components.
+
+**Thoughts:** I am pretty intrigued by how react works and am excited for what is to come next.
+
+**Link to work:** 
