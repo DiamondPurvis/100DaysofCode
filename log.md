@@ -36,4 +36,13 @@
 
 **Link to work:** 
 
+### Day 5: February 28, 2019 
+##### 
+
+**Today's Progress**: Today I will be building a react calculator.
+
+**Thoughts:** We do not have instructions on how to build this calculator, only design files. I am confident I can get something to work and resemble this calculator. Installing yarn takes a long time.
+
+**Link to work:** 
+
 
