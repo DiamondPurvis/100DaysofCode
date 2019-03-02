@@ -45,4 +45,13 @@
 
 **Link to work:** 
 
+### Day 6: March 1, 2019 
+##### 
+
+**Today's Progress**: Today I read chapter one of one of the programming books I bought.
+
+**Thoughts:** Trying to figure out how to effectively take notes on what I am reading.
+
+**Link to work:** 
+
 
