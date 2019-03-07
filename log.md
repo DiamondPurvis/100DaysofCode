@@ -54,4 +54,13 @@
 
 **Link to work:** 
 
+### Day 7: March 6, 2019 
+##### 
+
+**Today's Progress**: Today I learned a little about class components in react.
+
+**Thoughts:** I have no idea what I am doing. I have alot to re-read, and an entire lecture to re-watch as soon as the stream is uploaded. I plan on re-coding this project over the weekend as well to solidify my learning.
+
+**Link to work:** 
+
 
