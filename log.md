@@ -63,4 +63,12 @@
 
 **Link to work:** 
 
+### Day 8: March 19, 2019 
+##### 
+
+**Today's Progress**: Today I went back and started to review previously learnt material.
+
+**Thoughts:** I am getting in the habit of reviewing material that was learn up previously. I am following the 3day, 9day, 18 day rule that I made up. Hopefully this will keep me on my toes.
+
+**Link to work:** 
 
