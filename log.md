@@ -72,3 +72,12 @@
 
 **Link to work:** 
 
+### Day 9: March 20, 2019 
+##### 
+
+**Today's Progress**: Learning how to styke react components by using CSS and Reactstrap
+
+**Thoughts:** This looks like it may be a complicated task but I am ready to dive in.
+
+**Link to work:** 
+
