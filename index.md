@@ -1,5 +1,14 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+<h3>Project 1</h3>
+
+
 <h1>HI</h1>
 <h2>Hello</h2>
 
-<a href="day1.html" title="About Me">About Me</a>
+<a href="./Journey/001/day1.html" title="About Me">About Me</a>
+<a href="https://github.com/DiamondPurvis/100DaysOfCloud/blob/main/README.md" title="About Me"> Me</a>
 
+<h3>Iamthe one</h3>
