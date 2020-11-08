@@ -14,7 +14,7 @@
     </thead>
     <tbody>
       <tr>
-        <td style="text-align: left"><a href="./Journey/001/day1.html" title="Project 1">Project 1</a></td>
+        <td style="text-align: left"><a href="./Journey/001/fork-me-fcc-test-suite-template/src/index.html" title="Project 1">Project 1</a></td>
         <td style="text-align: left">good swedish fish</td>
         <td style="text-align: left">nice</td>
       </tr>
