@@ -1,7 +1,4 @@
----
-layout: post
-title: Blogging Like a Hacker
----
+
 <h3>Project 1</h3>
 
 
