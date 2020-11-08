@@ -4,7 +4,7 @@
 <h1>HI</h1>
 <h2>Hello</h2>
 
-<a href="./Journey/001/Readme.md" title="About Me">About Me</a>
+<a href="./Journey/001/day1.html" title="About Me">About Me</a>
 <a href="https://github.com/DiamondPurvis/100DaysOfCloud/blob/main/README.md" title="About Me">yay Me</a>
 
 <table>
